@@ -11,10 +11,10 @@ Before tech, I spent 15+ years in customer-facing roles in Brazil and the UK. Th
 
 ## 🛠️ Skills
 
-**Languages:** Java · Python · C# · Bash · SQL · HTML
-**IT & infrastructure:** Windows & Linux administration · user and permission management · backup automation · TCP/IP · DHCP · DNS · VLANs · OSPF · Cisco Packet Tracer
-**Cloud & data:** AWS fundamentals · MySQL · ER modelling · normalisation
-**Design:** UML · ER diagrams · draw.io
+- **Languages:** Java · Python · C# · Bash · SQL · HTML
+- **IT & infrastructure:** Windows & Linux administration · user and permission management · backup automation · TCP/IP · DHCP · DNS · VLANs · OSPF · Cisco Packet Tracer
+- **Cloud & data:** AWS fundamentals · MySQL · ER modelling · normalisation
+- **Design:** UML · ER diagrams · draw.io
 
 ## 📂 Projects
 
