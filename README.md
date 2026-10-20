@@ -11,7 +11,7 @@ Before tech, I spent 15+ years in customer-facing roles in Brazil and the UK. Th
 
 ## 🛠️ Skills
 
-**Languages:** Java · Python · Bash · SQL · HTML
+**Languages:** Java · Python · C# · Bash · SQL · HTML
 **IT & infrastructure:** Windows & Linux administration · user and permission management · backup automation · TCP/IP · DHCP · DNS · VLANs · OSPF · Cisco Packet Tracer
 **Cloud & data:** AWS fundamentals · MySQL · ER modelling · normalisation
 **Design:** UML · ER diagrams · draw.io
@@ -24,6 +24,7 @@ Before tech, I spent 15+ years in customer-facing roles in Brazil and the UK. Th
 | [Cisco Networking Labs](https://github.com/gabrielmalini/cisco-networking-labs) | Three networks: small office services, VLANs + VoIP, multi-site OSPF | Cisco Packet Tracer, IOS |
 | [Student Enrolment System](https://github.com/gabrielmalini/student-enrolment-system) | Console app showing the four OOP principles | Java |
 | [College Database Design](https://github.com/gabrielmalini/college-database-design) | Normalised (3NF) relational database with ERD and SQL | MySQL |
+| [C# Console Apps](https://github.com/gabrielmalini/csharp-console-apps) | Password strength validator and smart home command assistant | C#, .NET 8 |
 | [Staff Salary Calculator](https://github.com/gabrielmalini/staff-salary-calculator) | CLI payslip generator with tax and NI | Python |
 
 ## 📫 Contact
